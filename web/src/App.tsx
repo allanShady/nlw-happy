@@ -1,7 +1,6 @@
 import React from 'react';
-import './styles/global.css'
-import './styles/pages/landing-page.css'
-import logoImage from './images/logo.svg'
+import Routes from './routes'
+
 
 interface TitleProps {
   text: string
@@ -15,8 +14,8 @@ function Title(props: TitleProps) {
 
 function App() {
   return (
-    <div id="page-landing">
-     <div className="content-wrapper">
-      <img src={logoImage} alt="Happy"/>
-      <main>
-     
+    <Routes />
+    );
+}
+
+export default App;
