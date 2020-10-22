@@ -12,7 +12,7 @@ Web and mobile react app to easily locate orphanages next to you for a visit and
 - [x] Push code
 
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img alt="Happy" title="Happy" src="assets/Happy-Web01.png" />
 </h1>
 
 <p align="center">
@@ -55,7 +55,7 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Voc
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
 
-## 🧠🧘🏿‍  Desafio
+## 🧠🧘🏿‍  Proximos passos
 
 Guia no Notion referente aos desafios propostos para adicionar mais features a aplicação. E encontre um guia mostrando todo o passo a passo de como realizar o deploy tanto do backend quanto do frontend.
 
