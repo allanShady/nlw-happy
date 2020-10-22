@@ -12,7 +12,7 @@ Web and mobile react app to easily locate orphanages next to you for a visit and
 - [x] Push code
 
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="assets/Happy-Web01.png" />
+    <img alt="Happy" title="Happy" src="assets/Happy-Web01.PNG" />
 </h1>
 
 <p align="center">
