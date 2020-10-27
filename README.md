@@ -1,15 +1,5 @@
 # Happy
-Web and mobile react app to easily locate orphanages next to you for a visit and let the children happy. from Next Level Week 12.10.2020 [rocketseat](https://rocketseat.com.br/)
-
-### To dos Day 1
-- [x] Set up dev enviroment 
-- [x] Presantations and how duplicate the app prototypes figma file.
-- [x] React overview 
-- [x] Create landing page using react, also css file
-- [x] Create orphanagesMap page, also css file
-- [x] Sign up [mapbox](https://www.mapbox.com/) and configure access key 
-- [x] Add mapbox using on the orphanages map page
-- [x] Push code
+React app to easily locate orphanages next to you for a visit and let the children happy. from Next Level Week 12.10.2020 [rocketseat](https://rocketseat.com.br/)
 
 <h1 align="center">
     <img alt="Happy" title="Happy" src="assets/Happy-Web01.PNG" />
@@ -19,7 +9,7 @@ Web and mobile react app to easily locate orphanages next to you for a visit and
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licenciamento</a>
 </p>
 
 <p align="center">
@@ -30,16 +20,16 @@ Web and mobile react app to easily locate orphanages next to you for a visit and
 
 <br>
 
-<p align="center">
+<!--p align="center">
   <img alt="Happy" src=".github/happy.png" width="100%">
-</p>
+</p-->
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
+- [React](https://reactjs.org) 
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
