@@ -49,7 +49,7 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Voc
 
 Guia no Notion referente aos desafios propostos para adicionar mais features a aplicação. E encontre um guia mostrando todo o passo a passo de como realizar o deploy tanto do backend quanto do frontend.
 
-- [Desafio Happy 2.0](https://www.notion.so/Vers-o-2-0-do-Happy-c754db7a4d41469e8c2d00fcf75392c4)
+- [Features para a Happy v2.0](https://www.notion.so/Vers-o-2-0-do-Happy-ced0a7707f4c43c6ac99d192852cb4da)
 
 ## :memo: Licença
 
