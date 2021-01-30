@@ -1,9 +1,0 @@
-[build]
-    command = "yarn run build"
-    publish = "/build"
-    base = "web"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
